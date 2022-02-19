@@ -1,0 +1,9 @@
+/*  @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+
+ */
+.link {
+    word-spacing: 15px;
+
+}
